@@ -1,7 +1,7 @@
 package vehicleClasses;
 
 public class Car extends Vehicle{
-	pprivate static final String MOVEMENT_TYPE="Riding";	
+	private static final String MOVEMENT_TYPE="Riding";
 		
 		@Override
 		public void getMovementType(){
