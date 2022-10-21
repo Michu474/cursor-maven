@@ -5,7 +5,7 @@ public class Boat extends Vehicle{
 	
 	@Override
 	public void getMovementType(){
-		System.out.println(this.MOVEMENT_TYPE);
+		System.out.println(MOVEMENT_TYPE);
 	}
 	
 }
