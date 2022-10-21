@@ -1,4 +1,6 @@
-vehicles/IVehicle.class
-vehicles/Main.class
-vehicles/Vehicle.class
-vehicles/Helicopter.class
+vehicleClasses\Helicopter.class
+vehicleClasses\IVehicle.class
+vehicleClasses\Airplane.class
+vehicleClasses\Vehicle.class
+vehicleClasses\Boat.class
+vehicleClasses\Car.class
